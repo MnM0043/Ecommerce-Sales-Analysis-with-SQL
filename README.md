@@ -1,8 +1,8 @@
 # Ecommerce Sales Analysis with SQL
-
+THIS PROJECT IS UNFINISHED
 By Mohit Mohan
 
-A portfolio project analyzing ecommerce sales data using SQL to uncover trends, customer behavior, and business insights.
+A portfolio project analyzing e-commerce sales data using SQL to uncover trends, customer behaviour, and business insights.
 
 ## Project Structure
 
