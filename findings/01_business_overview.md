@@ -1,5 +1,3 @@
-# Get the Lay of the Land
-
 ## What this business does
 
 The business is a multi-category ecommerce retailer selling products across four main categories: **Electronics, Apparel, Beauty, and Home**. Its catalog covers a broad range of products, from headphones and smartwatches to clothing, skincare, kitchen products, and home furnishings.
